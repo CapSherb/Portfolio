@@ -14,7 +14,7 @@ Project that runs a calendar application inside the console of an IDE.
  - Shows a list of upcoming events
 
 # LineProject:
-Project that does basic line calculations given 2 points.
+Project that does basic line calculations given 2 points. I/O through IDE console
  - Gives equation of a line given 2 points
  - Calculates:
     - Slope of line
@@ -23,7 +23,7 @@ Project that does basic line calculations given 2 points.
     - Angle of line in degrees
 
 # LinkLists:
-Project using linked lists to store an array of user input numbers.
+Project using linked lists to store an array of user input numbers. I/O through IDE console
  - Basic functionalities of linked lists:
     - Append number to end of list
     - Add number to beginning of list
@@ -33,7 +33,7 @@ Project using linked lists to store an array of user input numbers.
     - Empty the list
 
 # Insert/Merge Sorts:
-Project that demonstrates the difference in time complexity between Insertion Sort and Merge Sort
+Project that demonstrates the difference in time complexity between Insertion Sort and Merge Sort. I/O through IDE console
  - Makes 2 identical arrays of a user input size filled with random numbers
  - Performs Insertion Sort on one array and tracks the time it takes to complete
  - Performs Merge Sort on other array and tracks the time it takes to complete
