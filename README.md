@@ -5,6 +5,8 @@ A collection of my successful projects from my classes so far throughout my coll
  - Issues - [https://github.com/CapSherb/Portfolio/issues]
  - Submit a Pull Request - [https://github.com/CapSherb/Portfolio/pulls]
 
+These projects were all coded in C++, and I am not very advanced, so feel free to suggest anything you would like to when it comes to these projects or my simple portfolio as a whole.
+
 # Calend:
 Project that runs a calendar application inside the console of an IDE.
  - Shows 12 month calendars by year or calendars for individual months
