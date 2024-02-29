@@ -1,5 +1,8 @@
 # Portfolio
 A collection of my successful projects from my classes so far throughout my college career.
+*If you find any issues with my code, or want to provide feedback, click below:*
+ - Issues - [https://github.com/CapSherb/Portfolio/issues]
+ - Submit a Pull Request - [https://github.com/CapSherb/Portfolio/pulls]
 
 # Calend:
 Project that runs a calendar application inside the console of an IDE.
