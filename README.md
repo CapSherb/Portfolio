@@ -25,3 +25,10 @@ Project using linked lists to store an array of user input numbers.
     - Delete item from front, back, or specified index
     - Print the list to console
     - Empty the list
+
+# Insert/Merge Sorts:
+Project that demonstrates the difference in time complexity between Insertion Sort and Merge Sort
+ - Makes 2 identical arrays of a user input size filled with random numbers
+ - Performs Insertion Sort on one array and tracks the time it takes to complete
+ - Performs Merge Sort on other array and tracks the time it takes to complete
+ - Displays the time it took for each sort to finish
