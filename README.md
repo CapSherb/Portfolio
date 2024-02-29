@@ -1,7 +1,7 @@
 # Portfolio
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8470/badge)](https://www.bestpractices.dev/projects/8470)
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/CapSherb/Portfolio/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/CapSherb/Portfolio)
+
 
 A collection of my successful projects from my classes so far throughout my college career.
 
