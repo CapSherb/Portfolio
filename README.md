@@ -1,4 +1,5 @@
 # Portfolio
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8470/badge)](https://www.bestpractices.dev/projects/8470)
 A collection of my successful projects from my classes so far throughout my college career.
 
 *If you find any issues with my code, or want to provide feedback, click below:*
