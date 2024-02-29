@@ -16,3 +16,12 @@ Project that does basic line calculations given 2 points.
     - Length
     - Angle of line in degrees
 
+# LinkLists:
+Project using linked lists to store an array of user input numbers.
+ - Basic functionalities of linked lists:
+    - Append number to end of list
+    - Add number to beginning of list
+    - Add number to middle of list at a specified index
+    - Delete item from front, back, or specified index
+    - Print the list to console
+    - Empty the list
