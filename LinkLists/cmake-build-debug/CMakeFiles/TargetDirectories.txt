@@ -1,0 +1,3 @@
+C:/Users/richj/Desktop/COP3530HW1/cmake-build-debug/CMakeFiles/COP3530HW1.dir
+C:/Users/richj/Desktop/COP3530HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/richj/Desktop/COP3530HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
