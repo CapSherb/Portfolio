@@ -1,5 +1,5 @@
 # Portfolio
-Collection of my projects
+A collection of my successful projects from my classes so far throughout my college career.
 
 # Calend:
 Project that runs a calendar application inside the console of an IDE.
